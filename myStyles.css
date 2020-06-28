@@ -9,7 +9,7 @@ html {
     
 }
 body {
-    background: #333;
+    background: #E7FBFB;
     margin: 0 auto;
 	width: 70%;
     font-family: tahoma;
@@ -26,6 +26,16 @@ header {
   border-top: 2px solid #bbb;
 }
 
+p.top {
+  text-align: center;
+  color: #010B5B;
+  font-size: 4em;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 0px;
+  word-spacing: 10px;
+ 
+}
 
 nav {
   text-align:right;
@@ -174,15 +184,6 @@ h2.centertext{
 }
 
 
-#top {
-  text-align: center;
-  color: rgb(153, 152, 152);
-  font-size: xx-large;
-  padding-top: 100px;
-  padding-bottom: 0px;
-  word-spacing: 10px;
- 
-}
 
 </style>
 </head>
